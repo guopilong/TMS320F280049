@@ -37,3 +37,12 @@ void main(void)
     }
 
 }
+
+
+//下面是库函数中给出的读取和写入GPIO的方法
+//Uint16 GPIO_ReadPin(Uint16 gpioNumber)
+
+//GPIO_WritePin(Uint16 gpioNumber, Uint16 outVal)
+
+
+
